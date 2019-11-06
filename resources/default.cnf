@@ -1,0 +1,4 @@
+[mariadb]
+bind-address=0.0.0.0
+socket=/var/lib/mysql/mysql.sock
+init_file=/var/run/mysql/mariadb.sql
